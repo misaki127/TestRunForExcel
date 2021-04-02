@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+    <script >
+        function addUser() {
+    document.write( "<form action=\"/createUser/\" method=\"post\" style=\"align-content: center;text-align: left;width: 900px;height: 900px;margin-left: 45%;margin-right:380px;margin-top: 350px;\">\n            <label>用户名</label><br>\n            <input type=\"text\" name=\"username\"/><br>\n            <label>密码</label><br>\n            <input type=\"password\" name=\"password\"/><br>\n            <label>重复密码</label><br>\n            <input type=\"password\" name=\"password-1\"/><br>\n            <label>邮箱</label><br>\n            <input type=\"email\" name=\"email\"/><br>\n            <input type=\"submit\" value=\"提交\" name=\"login\"/><br>\n        </form>" );
+}
+
+function remakePassword() {
+    document.write("        <form action=\"/remakePassword/\" method=\"post\" style=\"align-content: center;text-align: left;width: 900px;height: 900px;margin-left: 45%;margin-right:380px;margin-top: 350px;\">\n            <label>用户名</label><br>\n            <input type=\"text\" name=\"username\"/><br>\n            <label>旧密码</label><br>\n            <input type=\"password\" name=\"oldPassword\"/><br>\n            <label>新密码</label><br>\n            <input type=\"password\" name=\"newPassword\"/><br>\n            <input type=\"submit\" value=\"提交\" name=\"login\"/><br>\n        </form>");
+}
+
+function forgetPassword() {
+    document.write("       <form action=\"/forgetPassword/\" method=\"post\" style=\"align-content: center;text-align: left;width: 900px;height: 900px;margin-left: 45%;margin-right:380px;margin-top: 350px;\">\n            <label>用户名</label><br>\n            <input type=\"text\" name=\"username\" id=\"username\"/><br>\n            <label>邮箱</label><br>\n            <input type=\"email\" name=\"email\" id=\"email\"/><br>\n            <label>新密码</label><br>\n            <input type=\"password\" name=\"password\" id=\"password\"/><br>\n            <label>重新输入新密码</label><br>\n            <input type=\"password\" name=\"password-1\" id=\"password-1\"/><br>\n            <input type=\"submit\" value=\"提交\" name=\"login\" id ='loginSub'/>\n        </form>");
+}
+    </script>
+</head>
+<body style="background-color: aliceblue">
+    <div id="login" style="align-content: center;text-align: left;width: 900px;height: 900px;margin-left: 45%;margin-right:380px;margin-top: 350px;">
+        <form action="/login/" method="post">
+            <label>用户名</label><br>
+            <input type="text" name="username" id="username"/><br>
+            <label>密码</label><br>
+            <input type="password" name="password" id="password"/><br>
+            <input type="submit" value="提交" name="login" id ='loginSub'/>
+        </form>
+        <input type="submit" onclick="addUser()" value="注册">
+        <input type="submit" onclick="remakePassword()" value="重置密码">
+        <input type="submit" onclick="forgetPassword()" value="忘记密码">
+    </div>
+
+
+
+</body>
+
+
+</html>

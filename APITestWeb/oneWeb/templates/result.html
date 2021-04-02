@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>结果页</title>
+</head>
+<body>
+
+<h1>{{ result }}</h1>
+ <h2>{{ filename }}<a href="/download/report/?filename={{ filename }}" style="color:blue;font-size: 30px" >下载</a></h2>
+<h3>码文件：</h3>
+<ul>
+    {%  for p in codeFile %}
+        <li>{{ p }}<a href="/runTest/download/?fn={{ p }}">下载</a></li>
+        {% endfor %}
+</ul>
+<h3><a href="/upload/" style="color: blue;font-size: 15px">返回</a></h3>
+<h3>日志内容：</h3>
+<ul>
+    {% for x in log %}
+    <li>{{ x }}</li>
+    {% endfor %}
+</ul>
+
+
+</body>
+</html>

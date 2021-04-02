@@ -1,0 +1,1269 @@
+2021-01-26 16:30:24,253 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:30:24,253 - views.py[line:31] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 16:30:24,253 - views.py[line:52] - DEBUG: 启动检测日志程序
+2021-01-26 16:30:24,276 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:30:24,276 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:30:34,620 - views.py[line:175] - DEBUG: 启动检测日志程序
+2021-01-26 16:30:34,620 - views.py[line:175] - DEBUG: 启动检测日志程序
+2021-01-26 16:31:44,923 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:31:44,923 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:31:46,809 - views.py[line:30] - DEBUG: 日志系统已启动！
+2021-01-26 16:31:46,809 - views.py[line:32] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 16:31:46,809 - views.py[line:53] - DEBUG: 启动检测日志程序
+2021-01-26 16:31:46,810 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:31:46,810 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:32:21,268 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:32:21,268 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:32:23,085 - views.py[line:30] - DEBUG: 日志系统已启动！
+2021-01-26 16:32:23,086 - views.py[line:32] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 16:32:23,086 - views.py[line:53] - DEBUG: 启动检测日志程序
+2021-01-26 16:32:23,087 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:32:23,087 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:36:34,595 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:36:34,595 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 16:37:01,217 - views.py[line:30] - DEBUG: 日志系统已启动！
+2021-01-26 16:37:01,217 - views.py[line:32] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 16:37:01,217 - views.py[line:53] - DEBUG: 启动检测日志程序
+2021-01-26 16:37:01,219 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 16:37:01,219 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:29,769 - views.py[line:39] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:29,769 - views.py[line:41] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:14:29,770 - views.py[line:62] - DEBUG: 启动检测日志程序
+2021-01-26 17:14:29,773 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:29,773 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:49,767 - views.py[line:39] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:49,767 - views.py[line:41] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:14:49,767 - views.py[line:62] - DEBUG: 启动检测日志程序
+2021-01-26 17:14:49,769 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:14:49,769 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:15:01,194 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:01,194 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:05,738 - views.py[line:152] - DEBUG: 文件数字乡村接口自动化.xlsx开始执行操作。。
+2021-01-26 17:15:05,738 - views.py[line:152] - DEBUG: 文件数字乡村接口自动化.xlsx开始执行操作。。
+2021-01-26 17:15:05,761 - Run.py[line:17] - INFO: 执行接口自动化程序错误：[Errno 2] No such file or directory: '/usr/testcase/TestCase/数字乡村接口自动化.xlsx'
+2021-01-26 17:15:05,761 - Run.py[line:17] - INFO: 执行接口自动化程序错误：[Errno 2] No such file or directory: '/usr/testcase/TestCase/数字乡村接口自动化.xlsx'
+2021-01-26 17:15:05,762 - views.py[line:158] - DEBUG: 执行完毕，处理日志中。。
+2021-01-26 17:15:05,762 - views.py[line:158] - DEBUG: 执行完毕，处理日志中。。
+2021-01-26 17:15:05,768 - views.py[line:96] - DEBUG: move D:\GIT\git\APITestWeb\oneWeb/APITest/log/logging.log -> D:\GIT\git\APITestWeb\oneWeb/APITest/LOGZIP/logging(1).log
+2021-01-26 17:15:05,768 - views.py[line:96] - DEBUG: move D:\GIT\git\APITestWeb\oneWeb/APITest/log/logging.log -> D:\GIT\git\APITestWeb\oneWeb/APITest/LOGZIP/logging(1).log
+2021-01-26 17:15:07,784 - views.py[line:174] - DEBUG: 处理文件数字乡村接口自动化.xlsx结束，返回数据{'result': '启动失败！', 'log': ["2021-01-26 17:15:05,761 - root - Run.py - [line:17] - INFO - 执行接口自动化程序错误：[Errno 2] No such file or directory: '/usr/testcase/TestCase/数字乡村接口自动化.xlsx'\n"], 'codeFile': ['数字乡村接口自动化.xlsx'], 'fileName': '数字乡村接口自动化.xlsx'}
+2021-01-26 17:15:07,784 - views.py[line:174] - DEBUG: 处理文件数字乡村接口自动化.xlsx结束，返回数据{'result': '启动失败！', 'log': ["2021-01-26 17:15:05,761 - root - Run.py - [line:17] - INFO - 执行接口自动化程序错误：[Errno 2] No such file or directory: '/usr/testcase/TestCase/数字乡村接口自动化.xlsx'\n"], 'codeFile': ['数字乡村接口自动化.xlsx'], 'fileName': '数字乡村接口自动化.xlsx'}
+2021-01-26 17:15:33,364 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:15:33,364 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:15:35,182 - views.py[line:39] - DEBUG: 日志系统已启动！
+2021-01-26 17:15:35,182 - views.py[line:41] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:15:35,182 - views.py[line:62] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:35,183 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:15:35,183 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:15:37,919 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:37,919 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:41,386 - views.py[line:152] - DEBUG: 文件数字乡村接口自动化(1).xlsx开始执行操作。。
+2021-01-26 17:15:41,386 - views.py[line:152] - DEBUG: 文件数字乡村接口自动化(1).xlsx开始执行操作。。
+2021-01-26 17:15:41,774 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-26 17:15:41,774 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-26 17:15:41,776 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-26 17:15:41,776 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-26 17:15:41,779 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-26 17:15:41,779 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-26 17:15:42,270 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:acount,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login,method:post,data:json={'account': '13000000098','codeToken': "",'password': '7ae61a36fdf170216e7a207cd278de76'},,headers:{'Cookie': ''},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:42,270 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:acount,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login,method:post,data:json={'account': '13000000098','codeToken': "",'password': '7ae61a36fdf170216e7a207cd278de76'},,headers:{'Cookie': ''},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:42,270 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-26 17:15:42,270 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-26 17:15:42,307 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:42,307 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,145 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/web/login HTTP/1.1" 200 None
+2021-01-26 17:15:44,145 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/web/login HTTP/1.1" 200 None
+2021-01-26 17:15:44,149 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '121e2523273b4dd3ae5386ae0ecffdf5', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-26 17:15:44,149 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '121e2523273b4dd3ae5386ae0ecffdf5', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-26 17:15:44,152 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_sys,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url,method:get,data:params={'sysUrl': 'http://cshanjbch.jgwcjm.com'},,headers:{'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,152 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_sys,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url,method:get,data:params={'sysUrl': 'http://cshanjbch.jgwcjm.com'},,headers:{'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,152 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-26 17:15:44,152 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-26 17:15:44,158 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,158 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,269 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "GET /apiInterface/interface/hydra-user/api/v1/sys/sys/url?sysUrl=http%3A%2F%2Fcshanjbch.jgwcjm.com HTTP/1.1" 200 None
+2021-01-26 17:15:44,269 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "GET /apiInterface/interface/hydra-user/api/v1/sys/sys/url?sysUrl=http%3A%2F%2Fcshanjbch.jgwcjm.com HTTP/1.1" 200 None
+2021-01-26 17:15:44,272 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-26 17:15:44,272 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-26 17:15:44,273 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_org,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user,method:get,data:params={'sysId':'5fa756fc1a7141cab9f342aee552f93c'},,headers:{'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,273 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_org,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user,method:get,data:params={'sysId':'5fa756fc1a7141cab9f342aee552f93c'},,headers:{'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,274 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-26 17:15:44,274 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-26 17:15:44,280 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,280 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,324 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "GET /apiInterface/interface/hydra-user/api/v1/org/sys/filter-user?sysId=5fa756fc1a7141cab9f342aee552f93c HTTP/1.1" 200 None
+2021-01-26 17:15:44,324 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "GET /apiInterface/interface/hydra-user/api/v1/org/sys/filter-user?sysId=5fa756fc1a7141cab9f342aee552f93c HTTP/1.1" 200 None
+2021-01-26 17:15:44,325 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-26 17:15:44,325 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-26 17:15:44,326 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_token_org,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f,method:post,data:json={'organizationId':'ef1bba7e4eb24206ae4827d1cdc83edd'},,headers:{'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,326 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_token_org,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f,method:post,data:json={'organizationId':'ef1bba7e4eb24206ae4827d1cdc83edd'},,headers:{'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,326 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-26 17:15:44,326 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-26 17:15:44,329 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,329 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,374 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f HTTP/1.1" 200 None
+2021-01-26 17:15:44,374 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f HTTP/1.1" 200 None
+2021-01-26 17:15:44,376 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-26 17:15:44,376 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-26 17:15:44,377 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_token_sys,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084,method:post,data:json={'sysId': '5fa756fc1a7141cab9f342aee552f93c','sysUrl': 'http://cshanjbch.jgwcjm.com'},,headers:{'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,377 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:get_token_sys,url:http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084,method:post,data:json={'sysId': '5fa756fc1a7141cab9f342aee552f93c','sysUrl': 'http://cshanjbch.jgwcjm.com'},,headers:{'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},isToken:None,findVariable:,nameVariable:None,SQL:None,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,377 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-26 17:15:44,377 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-26 17:15:44,380 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,380 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): login.jgwcjm.com:80
+2021-01-26 17:15:44,419 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084 HTTP/1.1" 200 None
+2021-01-26 17:15:44,419 - connectionpool.py[line:393] - DEBUG: http://login.jgwcjm.com:80 "POST /apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084 HTTP/1.1" 200 None
+2021-01-26 17:15:44,423 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-26 17:15:44,423 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-26 17:15:44,424 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=121e2523273b4dd3ae5386ae0ecffdf5
+
+2021-01-26 17:15:44,424 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=121e2523273b4dd3ae5386ae0ecffdf5
+
+2021-01-26 17:15:44,425 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-26 17:15:44,425 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-26 17:15:44,426 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:新增劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany,method:post,data:json={"name":"202116","sort":"1"},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,426 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:新增劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany,method:post,data:json={"name":"202116","sort":"1"},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,427 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"name":"202116","sort":"1"},)
+
+2021-01-26 17:15:44,427 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"name":"202116","sort":"1"},)
+
+2021-01-26 17:15:44,435 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,435 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,601 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany HTTP/1.1" 200 None
+2021-01-26 17:15:44,601 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany HTTP/1.1" 200 None
+2021-01-26 17:15:44,602 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-26 17:15:44,602 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-26 17:15:44,603 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-26 17:15:44,603 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-26 17:15:44,603 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-26 17:15:44,603 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-26 17:15:44,603 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:获取劳务公司单位列表,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list,method:get,data:params={"current":"1","pageSize":"10","flag":"1"},,headers:None,isToken:token,findVariable:name:202116,createTime,id,nameVariable:createTime,id,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,603 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:获取劳务公司单位列表,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list,method:get,data:params={"current":"1","pageSize":"10","flag":"1"},,headers:None,isToken:token,findVariable:name:202116,createTime,id,nameVariable:createTime,id,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,603 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-26 17:15:44,603 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-26 17:15:44,605 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,605 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,653 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "GET /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list?current=1&pageSize=10&flag=1 HTTP/1.1" 200 None
+2021-01-26 17:15:44,653 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "GET /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list?current=1&pageSize=10&flag=1 HTTP/1.1" 200 None
+2021-01-26 17:15:44,656 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-26 17:15:44,656 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-26 17:15:44,659 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-26 17:15:44,659 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-26 17:15:44,660 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-26 17:15:45', 'id': 90}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-26 17:15:44,660 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-26 17:15:45', 'id': 90}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-26 17:15:44,662 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,662 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,664 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-26 17:15:44,664 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-26 17:15:44,667 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,667 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,673 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:编辑劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update,method:post,data:json={"id":'90',"organizationId":'ef1bba7e4eb24206ae4827d1cdc83edd',"sysId":'5fa756fc1a7141cab9f342aee552f93c',"createTime":'2021-01-26 17:15:45',"updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,673 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:编辑劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update,method:post,data:json={"id":'90',"organizationId":'ef1bba7e4eb24206ae4827d1cdc83edd',"sysId":'5fa756fc1a7141cab9f342aee552f93c',"createTime":'2021-01-26 17:15:45',"updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,673 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"id":"90","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-26 17:15:45","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-26 17:15:44,673 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},json={"id":"90","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-26 17:15:45","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-26 17:15:44,675 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,675 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,705 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update HTTP/1.1" 200 None
+2021-01-26 17:15:44,705 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "POST /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update HTTP/1.1" 200 None
+2021-01-26 17:15:44,706 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-26 17:15:44,706 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-26 17:15:44,706 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-26 17:15:44,706 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-26 17:15:44,706 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,706 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,707 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:搜索劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list,method:get,data:params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,707 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:搜索劳务公司名称,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list,method:get,data:params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,707 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-26 17:15:44,707 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-26 17:15:44,708 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,708 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,762 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "GET /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list?current=1&pageSize=10&search=20211601&flag=1 HTTP/1.1" 200 None
+2021-01-26 17:15:44,762 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "GET /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list?current=1&pageSize=10&search=20211601&flag=1 HTTP/1.1" 200 None
+2021-01-26 17:15:44,765 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-26 17:15:44,765 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-26 17:15:44,767 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-26 17:15:44,767 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-26 17:15:44,769 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,769 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}
+2021-01-26 17:15:44,773 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:删除劳务公司,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90,method:delete,data:params={},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,773 - TestCase.py[line:44] - DEBUG: 测试用例属性：name:删除劳务公司,url:http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90,method:delete,data:params={},,headers:None,isToken:token,findVariable:,nameVariable:None,SQL:,SQLVariable:None,expResult:None,waitTime:None
+
+2021-01-26 17:15:44,774 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90",method="delete",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={},)
+
+2021-01-26 17:15:44,774 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90",method="delete",headers={'Cookie': 'super-token=121e2523273b4dd3ae5386ae0ecffdf5'},params={},)
+
+2021-01-26 17:15:44,780 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,780 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): cshanjbch.jgwcjm.com:80
+2021-01-26 17:15:44,825 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "DELETE /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90 HTTP/1.1" 200 None
+2021-01-26 17:15:44,825 - connectionpool.py[line:393] - DEBUG: http://cshanjbch.jgwcjm.com:80 "DELETE /apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90 HTTP/1.1" 200 None
+2021-01-26 17:15:44,826 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-26 17:15:44,826 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-26 17:15:44,827 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-26 17:15:44,827 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-26 17:15:44,828 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B2,content=2021-01-26 17:15:41,style:None,sheetName:report
+
+2021-01-26 17:15:44,828 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B2,content=2021-01-26 17:15:41,style:None,sheetName:report
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A4,content=劳务公司,style:None,sheetName:report
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A4,content=劳务公司,style:None,sheetName:report
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q2,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q2,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M2,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,829 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M2,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,830 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A5,content=新增劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,830 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A5,content=新增劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,830 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B5:E5,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,830 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B5:E5,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,833 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F5,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,833 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F5,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N2,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N2,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O2,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O2,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P2,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,834 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P2,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q3,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q3,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M3,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M3,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A6,content=获取劳务公司单位列表,style:None,sheetName:report
+
+2021-01-26 17:15:44,835 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A6,content=获取劳务公司单位列表,style:None,sheetName:report
+
+2021-01-26 17:15:44,836 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B6:E6,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,836 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B6:E6,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,838 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F6,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}},style:None,sheetName:report
+
+2021-01-26 17:15:44,838 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F6,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}},style:None,sheetName:report
+
+2021-01-26 17:15:44,838 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N3,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,838 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N3,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,839 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O3,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,839 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O3,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,839 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P3,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,839 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P3,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,840 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q4,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,840 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q4,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,840 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M4,content=fail,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,840 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M4,content=fail,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,841 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A7,content=编辑劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,841 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A7,content=编辑劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,841 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B7:E7,content=fail,style:red,sheetName:report
+
+2021-01-26 17:15:44,841 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B7:E7,content=fail,style:red,sheetName:report
+
+2021-01-26 17:15:44,843 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F7,content={'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,843 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F7,content={'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,843 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N4,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,843 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N4,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O4,content={'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O4,content={'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P4,content=500,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P4,content=500,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q5,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,844 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q5,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,845 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M5,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,845 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M5,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,845 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A8,content=搜索劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,845 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A8,content=搜索劳务公司名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,846 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B8:E8,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,846 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B8:E8,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,848 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F8,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}},style:None,sheetName:report
+
+2021-01-26 17:15:44,848 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F8,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}},style:None,sheetName:report
+
+2021-01-26 17:15:44,848 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N5,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,848 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N5,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O5,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O5,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P5,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P5,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q6,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,849 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=Q6,content=,style:red,sheetName:劳务公司
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M6,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=M6,content=pass,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A9,content=删除劳务公司,style:None,sheetName:report
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A9,content=删除劳务公司,style:None,sheetName:report
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B9:E9,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,850 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B9:E9,content=success,style:green,sheetName:report
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F9,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F9,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:report
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N6,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=N6,content=2021-01-26 17:15:44,style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O6,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,852 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=O6,content={'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None},style:None,sheetName:劳务公司
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P6,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=P6,content=200,style:green,sheetName:劳务公司
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=H2,content=2021-01-26 17:15:44,style:None,sheetName:测试用例
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=H2,content=2021-01-26 17:15:44,style:None,sheetName:测试用例
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=J2,content=3.0476510524749756,style:None,sheetName:测试用例
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=J2,content=3.0476510524749756,style:None,sheetName:测试用例
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=I2,content=fail,style:red,sheetName:测试用例
+
+2021-01-26 17:15:44,853 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=I2,content=fail,style:red,sheetName:测试用例
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B4,content=5,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B4,content=5,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C4,content=4,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C4,content=4,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D4,content=1,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D4,content=1,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E4,content=0,style:None,sheetName:report
+
+2021-01-26 17:15:44,854 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E4,content=0,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D2,content=3.0526411533355713,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D2,content=3.0526411533355713,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F2,content=成功：4，失败：1，错误：0,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F2,content=成功：4，失败：1，错误：0,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A1:F1,content=接口自动化脚本测试报告,style:None,sheetName:report
+
+2021-01-26 17:15:44,855 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A1:F1,content=接口自动化脚本测试报告,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A2,content=开始时间,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A2,content=开始时间,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C2,content=耗时,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C2,content=耗时,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E2,content=结果,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E2,content=结果,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A3,content=用例组名称/用例名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=A3,content=用例组名称/用例名称,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B3,content=总数,style:None,sheetName:report
+
+2021-01-26 17:15:44,857 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=B3,content=总数,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C3,content=通过,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=C3,content=通过,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D3,content=失败,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=D3,content=失败,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E3,content=错误,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=E3,content=错误,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F3,content=结果信息/错误信息,style:None,sheetName:report
+
+2021-01-26 17:15:44,858 - ExcelCellObj.py[line:13] - DEBUG: 单元格属性：index=F3,content=结果信息/错误信息,style:None,sheetName:report
+
+2021-01-26 17:15:45,471 - common.py[line:363] - INFO: []
+
+2021-01-26 17:15:45,471 - common.py[line:363] - INFO: []
+
+2021-01-26 17:15:45,471 - views.py[line:158] - DEBUG: 执行完毕，处理日志中。。
+2021-01-26 17:15:45,471 - views.py[line:158] - DEBUG: 执行完毕，处理日志中。。
+2021-01-26 17:15:45,478 - views.py[line:96] - DEBUG: move D:\GIT\git\APITestWeb\oneWeb/APITest/log/logging.log -> D:\GIT\git\APITestWeb\oneWeb/APITest/LOGZIP/logging(2).log
+2021-01-26 17:15:45,478 - views.py[line:96] - DEBUG: move D:\GIT\git\APITestWeb\oneWeb/APITest/log/logging.log -> D:\GIT\git\APITestWeb\oneWeb/APITest/LOGZIP/logging(2).log
+2021-01-26 17:15:47,481 - views.py[line:174] - DEBUG: 处理文件数字乡村接口自动化(1).xlsx结束，返回数据{'result': '启动成功！', 'log': ["2021-01-26 17:15:41,774 - root - APITestCase.py - [line:43] - INFO - 需要执行的用例表名称为：['劳务公司']\n", '\n', '2021-01-26 17:15:41,776 - root - APITestCase.py - [line:184] - INFO - 开始执行 ‘劳务公司’ 测试用例\n', '\n', '2021-01-26 17:15:41,779 - root - APITestCase.py - [line:214] - INFO - 进入获取token程序!\n', '\n', '2021-01-26 17:15:42,270 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={\'Cookie\': \'\'},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)\n', '\n', "2021-01-26 17:15:44,149 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '121e2523273b4dd3ae5386ae0ecffdf5', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}\n", '\n', '2021-01-26 17:15:44,152 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)\n', '\n', "2021-01-26 17:15:44,272 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}\n", '\n', '2021-01-26 17:15:44,274 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={\'isAdmin\': \'False\', \'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)\n', '\n', "2021-01-26 17:15:44,325 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}\n", '\n', '2021-01-26 17:15:44,326 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)\n', '\n', "2021-01-26 17:15:44,376 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}\n", '\n', '2021-01-26 17:15:44,377 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={\'isAdmin\': \'False\', \'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)\n', '\n', "2021-01-26 17:15:44,423 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}\n", '\n', '2021-01-26 17:15:44,424 - root - APITestCase.py - [line:243] - INFO - 获取token成功！token=super-token=121e2523273b4dd3ae5386ae0ecffdf5\n', '\n', '2021-01-26 17:15:44,425 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{}\n', '2021-01-26 17:15:44,427 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"name":"202116","sort":"1"},)\n', '\n', "2021-01-26 17:15:44,602 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}\n", '\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:376] - INFO - 新增劳务公司名称-用例执行结果：success\n', '\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{}\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"current":"1","pageSize":"10","flag":"1"},)\n', '\n', "2021-01-26 17:15:44,656 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}\n", '\n', "2021-01-26 17:15:44,659 - root - APITestCase.py - [line:309] - INFO - variableData:::(['name', 'createTime', 'id'], {'name': '202116'})\n", "2021-01-26 17:15:44,660 - root - APITestCase.py - [line:315] - INFO - ---------({'name': '202116', 'createTime': '2021-01-26 17:15:45', 'id': 90}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})\n", "2021-01-26 17:15:44,662 - root - APITestCase.py - [line:322] - INFO - -------:::{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,664 - root - APITestCase.py - [line:376] - INFO - 获取劳务公司单位列表-用例执行结果：success\n', '\n', "2021-01-26 17:15:44,667 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,673 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"id":"90","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-26 17:15:45","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)\n', '\n', "2021-01-26 17:15:44,706 - root - APITestCase.py - [line:276] - INFO - result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}\n", '\n', '2021-01-26 17:15:44,706 - root - APITestCase.py - [line:376] - INFO - 编辑劳务公司名称-用例执行结果：fail\n', '\n', "2021-01-26 17:15:44,706 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,707 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)\n', '\n', "2021-01-26 17:15:44,765 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}\n", '\n', '2021-01-26 17:15:44,767 - root - APITestCase.py - [line:376] - INFO - 搜索劳务公司名称-用例执行结果：success\n', '\n', "2021-01-26 17:15:44,769 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,774 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90",method="delete",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={},)\n', '\n', "2021-01-26 17:15:44,826 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}\n", '\n', '2021-01-26 17:15:44,827 - root - APITestCase.py - [line:376] - INFO - 删除劳务公司-用例执行结果：success\n', '\n', '2021-01-26 17:15:45,471 - root - common.py - [line:363] - INFO - []\n', '\n'], 'codeFile': ['数字乡村接口自动化(1).xlsx', '数字乡村接口自动化.xlsx'], 'fileName': '数字乡村接口自动化(1).xlsx'}
+2021-01-26 17:15:47,481 - views.py[line:174] - DEBUG: 处理文件数字乡村接口自动化(1).xlsx结束，返回数据{'result': '启动成功！', 'log': ["2021-01-26 17:15:41,774 - root - APITestCase.py - [line:43] - INFO - 需要执行的用例表名称为：['劳务公司']\n", '\n', '2021-01-26 17:15:41,776 - root - APITestCase.py - [line:184] - INFO - 开始执行 ‘劳务公司’ 测试用例\n', '\n', '2021-01-26 17:15:41,779 - root - APITestCase.py - [line:214] - INFO - 进入获取token程序!\n', '\n', '2021-01-26 17:15:42,270 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={\'Cookie\': \'\'},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)\n', '\n', "2021-01-26 17:15:44,149 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '121e2523273b4dd3ae5386ae0ecffdf5', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}\n", '\n', '2021-01-26 17:15:44,152 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)\n', '\n', "2021-01-26 17:15:44,272 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}\n", '\n', '2021-01-26 17:15:44,274 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={\'isAdmin\': \'False\', \'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)\n', '\n', "2021-01-26 17:15:44,325 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}\n", '\n', '2021-01-26 17:15:44,326 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)\n', '\n', "2021-01-26 17:15:44,376 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}\n", '\n', '2021-01-26 17:15:44,377 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={\'isAdmin\': \'False\', \'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)\n', '\n', "2021-01-26 17:15:44,423 - root - APITestCase.py - [line:231] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}\n", '\n', '2021-01-26 17:15:44,424 - root - APITestCase.py - [line:243] - INFO - 获取token成功！token=super-token=121e2523273b4dd3ae5386ae0ecffdf5\n', '\n', '2021-01-26 17:15:44,425 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{}\n', '2021-01-26 17:15:44,427 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"name":"202116","sort":"1"},)\n', '\n', "2021-01-26 17:15:44,602 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}\n", '\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:376] - INFO - 新增劳务公司名称-用例执行结果：success\n', '\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{}\n', '2021-01-26 17:15:44,603 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"current":"1","pageSize":"10","flag":"1"},)\n', '\n', "2021-01-26 17:15:44,656 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}\n", '\n', "2021-01-26 17:15:44,659 - root - APITestCase.py - [line:309] - INFO - variableData:::(['name', 'createTime', 'id'], {'name': '202116'})\n", "2021-01-26 17:15:44,660 - root - APITestCase.py - [line:315] - INFO - ---------({'name': '202116', 'createTime': '2021-01-26 17:15:45', 'id': 90}, {'id': 90, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-26 17:15:45', 'updateTime': '2021-01-26 17:15:45', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})\n", "2021-01-26 17:15:44,662 - root - APITestCase.py - [line:322] - INFO - -------:::{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,664 - root - APITestCase.py - [line:376] - INFO - 获取劳务公司单位列表-用例执行结果：success\n', '\n', "2021-01-26 17:15:44,667 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,673 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},json={"id":"90","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-26 17:15:45","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)\n', '\n', "2021-01-26 17:15:44,706 - root - APITestCase.py - [line:276] - INFO - result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}\n", '\n', '2021-01-26 17:15:44,706 - root - APITestCase.py - [line:376] - INFO - 编辑劳务公司名称-用例执行结果：fail\n', '\n', "2021-01-26 17:15:44,706 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,707 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)\n', '\n', "2021-01-26 17:15:44,765 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}\n", '\n', '2021-01-26 17:15:44,767 - root - APITestCase.py - [line:376] - INFO - 搜索劳务公司名称-用例执行结果：success\n', '\n', "2021-01-26 17:15:44,769 - root - APITestCase.py - [line:247] - INFO - 变量列表为：{'createTime': '2021-01-26 17:15:45', 'id': 90}\n", '2021-01-26 17:15:44,774 - root - APITestCase.py - [line:152] - INFO - Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/90",method="delete",headers={\'Cookie\': \'super-token=121e2523273b4dd3ae5386ae0ecffdf5\'},params={},)\n', '\n', "2021-01-26 17:15:44,826 - root - APITestCase.py - [line:276] - INFO - result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}\n", '\n', '2021-01-26 17:15:44,827 - root - APITestCase.py - [line:376] - INFO - 删除劳务公司-用例执行结果：success\n', '\n', '2021-01-26 17:15:45,471 - root - common.py - [line:363] - INFO - []\n', '\n'], 'codeFile': ['数字乡村接口自动化(1).xlsx', '数字乡村接口自动化.xlsx'], 'fileName': '数字乡村接口自动化(1).xlsx'}
+2021-01-26 17:15:54,013 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:15:54,013 - views.py[line:185] - DEBUG: 启动检测日志程序
+2021-01-26 17:17:43,170 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:17:43,170 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:20:50,835 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:20:50,835 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:20:50,835 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:20:50,836 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:20:50,836 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:21:34,500 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:21:34,500 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:24:46,705 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:24:46,705 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:24:46,705 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:24:46,706 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:24:46,706 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:25:03,977 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:25:03,977 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:25:05,827 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:25:05,827 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:25:05,827 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:05,828 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:25:05,828 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:25:10,433 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:10,433 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:11,421 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:11,421 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:16,666 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:25:16,666 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:26:00,768 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:26:00,768 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:26:02,650 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:26:02,650 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:26:02,651 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:26:02,651 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:26:02,651 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:26:06,125 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:26:06,125 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:26:52,670 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:26:52,670 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:26:54,555 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:26:54,555 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:26:54,555 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:26:54,556 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:26:54,556 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:27:24,722 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:27:24,722 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:30:50,230 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:30:50,230 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:37:40,235 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:37:40,235 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:37:40,235 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:37:40,236 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:37:40,236 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:37:44,017 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:37:44,017 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:37:44,633 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:37:44,633 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:38:02,551 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:38:02,551 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:38:44,741 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:38:44,741 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:42:31,564 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:42:31,564 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:42:37,047 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:42:37,047 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:43:02,567 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:43:02,567 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:43:04,831 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:43:04,831 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:43:04,831 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:43:04,832 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:43:04,832 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:43:08,033 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:43:08,033 - views.py[line:136] - DEBUG: 启动检测日志程序
+2021-01-26 17:46:26,308 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:46:26,308 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:46:28,153 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:46:28,154 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:46:28,154 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:46:28,155 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:46:28,155 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:46:56,848 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:46:56,848 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-26 17:47:15,846 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:47:15,846 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:47:15,846 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:47:15,848 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:47:15,848 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:47:27,800 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-26 17:47:27,800 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-26 17:47:27,801 - views.py[line:66] - DEBUG: 启动检测日志程序
+2021-01-26 17:47:27,802 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-26 17:47:27,802 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:00,558 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:00,560 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:40:00,561 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:40:00,563 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:00,563 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:27,958 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:40:27,958 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:40:40,658 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:40:40,658 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:40:56,318 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:56,318 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:40:56,318 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:40:56,319 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:40:56,319 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:41:05,818 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:41:05,818 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:41:05,818 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:41:05,820 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:41:05,820 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:37,484 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:37,484 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:42:37,484 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:42:37,486 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:37,486 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:46,228 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:46,228 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:42:46,228 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:42:46,230 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:46,230 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:42:48,253 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:42:48,253 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:42:48,855 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:42:48,855 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:44:54,157 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:44:54,157 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:44:55,991 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:44:55,991 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:44:55,991 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:44:55,993 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:44:55,993 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:44:58,366 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:44:58,366 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:17,092 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:45:17,092 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:45:18,941 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:45:18,941 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:45:18,941 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:18,943 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:45:18,943 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:45:20,462 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:20,462 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,096 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,096 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,338 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,338 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,543 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:21,543 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:23,113 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:23,113 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:42,257 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:42,257 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:58,145 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:45:58,145 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:46:40,535 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:46:40,535 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:46:52,436 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:46:52,436 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:47:47,843 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:47:47,843 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:47:49,672 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:47:49,673 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:47:49,673 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:47:49,674 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:47:49,674 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:47:52,160 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:47:52,160 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:47:52,874 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:47:52,874 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:48:08,526 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:48:08,526 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:49:21,513 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:49:21,513 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:49:23,595 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:49:23,595 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:49:23,596 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:49:23,597 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:49:23,597 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:50:14,149 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:50:14,149 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:50:33,982 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:50:33,982 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:50:35,808 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:50:35,809 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:50:35,809 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:50:35,810 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:50:35,810 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:50:37,052 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:50:37,052 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:30,230 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:30,230 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:30,696 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:30,696 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:31,352 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:31,352 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:44,848 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:55:44,848 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:55:46,671 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 09:55:46,671 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 09:55:46,671 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:46,673 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:55:46,673 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 09:55:48,673 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:55:48,673 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 09:57:03,887 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 09:57:03,887 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:12:20,433 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:12:20,435 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:12:20,436 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:12:20,438 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:12:20,438 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:12:27,262 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:12:27,262 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:13:32,076 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:13:32,076 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:13:33,920 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:13:33,920 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:13:33,920 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:13:33,922 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:13:33,922 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:13:50,139 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:13:50,139 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:13:51,951 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:13:51,951 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:13:51,951 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:13:51,953 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:13:51,953 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:14:34,394 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:14:34,394 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:14:36,120 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:14:36,120 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:14:36,120 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:14:36,122 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:14:36,122 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:14:40,244 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:14:40,244 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:16:08,404 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:16:08,404 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:16:10,177 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:16:10,177 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:16:10,177 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:16:10,179 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:16:10,179 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:16:12,512 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:16:12,512 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:17:17,791 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:17:17,791 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:17:19,599 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:17:19,599 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:17:19,599 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:17:19,601 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:17:19,601 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:17:22,714 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:17:22,714 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:17:48,942 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:17:48,942 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:03,914 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:03,914 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:17,873 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:17,873 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:26,038 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:18:26,038 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:04,604 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:04,604 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:05,196 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:05,196 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,010 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,010 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,275 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,275 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,508 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,508 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,680 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,680 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,882 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:29,882 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:46,948 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:19:46,948 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:20:39,996 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:20:39,996 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:21:59,127 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:21:59,127 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:22:00,925 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:22:00,925 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:22:00,925 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:22:00,927 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:22:00,927 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:24:22,597 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:24:22,597 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:24:24,433 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:24:24,433 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:24:24,434 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:24:24,436 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:24:24,436 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:24:56,188 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:24:56,188 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:26:06,268 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:26:06,268 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:32:05,234 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:32:05,234 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:32:05,234 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:05,236 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:32:05,236 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:32:25,800 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:25,800 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:26,115 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:26,115 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:43,186 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:32:43,186 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:33:23,957 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:33:23,957 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:36:40,218 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:36:40,218 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:36:40,218 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:36:40,220 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:36:40,220 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:36:43,010 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:36:43,010 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:36:58,695 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:36:58,695 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:37:57,004 - views.py[line:43] - DEBUG: 日志系统已启动！
+2021-01-27 10:37:57,005 - views.py[line:45] - DEBUG: 当前路径：D:\GIT\git\APITestWeb\oneWeb
+2021-01-27 10:37:57,005 - views.py[line:65] - DEBUG: 启动检测日志程序
+2021-01-27 10:37:57,006 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:37:57,006 - views.py[line:29] - DEBUG: 日志系统已启动！
+2021-01-27 10:39:25,687 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:39:25,687 - views.py[line:135] - DEBUG: 启动检测日志程序
+2021-01-27 10:39:26,002 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:39:26,002 - selector_events.py[line:53] - DEBUG: Using selector: SelectSelector
+2021-01-27 10:41:27,326 - Run.py[line:17] - INFO: 执行接口自动化程序错误：[Errno 22] Invalid argument: 'D:/ONE/D:/ONE\\数字乡村接口自动化(6).xlsx'
+2021-01-27 10:41:27,326 - Run.py[line:17] - INFO: 执行接口自动化程序错误：[Errno 22] Invalid argument: 'D:/ONE/D:/ONE\\数字乡村接口自动化(6).xlsx'
+2021-01-27 10:42:15,825 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:42:15,825 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:42:15,827 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:42:15,827 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:42:15,829 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:42:15,829 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:42:16,307 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:42:16,307 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:42:18,038 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '960c300e71094041816915e95e350675', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:42:18,038 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '960c300e71094041816915e95e350675', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:42:18,039 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:42:18,039 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:42:18,105 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:42:18,105 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:42:18,107 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:42:18,107 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:42:18,148 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:42:18,148 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:42:18,148 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:42:18,148 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:42:18,201 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:42:18,201 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:42:18,202 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:42:18,202 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:42:18,253 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:42:18,253 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:42:18,253 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=960c300e71094041816915e95e350675
+
+2021-01-27 10:42:18,253 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=960c300e71094041816915e95e350675
+
+2021-01-27 10:42:18,254 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:42:18,254 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:42:18,256 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:42:18,256 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:42:18,637 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:42:18,637 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:42:18,639 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:42:18,639 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:42:18,640 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:42:18,640 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:42:18,642 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:42:18,642 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:42:18,796 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 91, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:42:19', 'updateTime': '2021-01-27 10:42:19', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:42:18,796 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 91, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:42:19', 'updateTime': '2021-01-27 10:42:19', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:42:18,799 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:42:18,799 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:42:18,802 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:42:19', 'id': 91}, {'id': 91, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:42:19', 'updateTime': '2021-01-27 10:42:19', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:42:18,802 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:42:19', 'id': 91}, {'id': 91, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:42:19', 'updateTime': '2021-01-27 10:42:19', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:42:18,804 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,804 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,805 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:42:18,805 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:42:18,807 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,807 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,808 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"id":"91","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:42:19","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:42:18,808 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},json={"id":"91","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:42:19","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:42:18,950 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:42:18,950 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:42:18,951 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:42:18,951 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:42:18,954 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,954 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:18,955 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:42:18,955 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:42:19,057 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:42:19,057 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:42:19,058 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:42:19,058 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:42:19,059 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:19,059 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:42:19', 'id': 91}
+2021-01-27 10:42:19,060 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/91",method="delete",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={},)
+
+2021-01-27 10:42:19,060 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/91",method="delete",headers={'Cookie': 'super-token=960c300e71094041816915e95e350675'},params={},)
+
+2021-01-27 10:42:19,202 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:42:19,202 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:42:19,203 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:42:19,203 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:42:19,772 - common.py[line:363] - INFO: []
+
+2021-01-27 10:42:19,772 - common.py[line:363] - INFO: []
+
+2021-01-27 10:46:18,486 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:46:18,486 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:46:18,488 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:46:18,488 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:46:18,488 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:46:18,488 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:46:19,011 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:46:19,011 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:46:19,598 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '917001f41b494b05b4cd6f6a5e735d68', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:46:19,598 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': '917001f41b494b05b4cd6f6a5e735d68', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:46:19,599 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:46:19,599 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:46:19,659 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:46:19,659 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:46:19,659 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:46:19,659 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:46:19,693 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:46:19,693 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:46:19,693 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:46:19,693 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:46:19,732 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:46:19,732 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:46:19,732 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:46:19,732 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=917001f41b494b05b4cd6f6a5e735d68
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=917001f41b494b05b4cd6f6a5e735d68
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:46:19,786 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:46:19,786 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:46:19,786 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:46:19,955 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:46:19,955 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:46:19,956 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:46:19,956 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:46:19,958 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:46:19,958 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:46:19,960 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:46:19,960 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:46:20,016 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 92, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:46:20', 'updateTime': '2021-01-27 10:46:20', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:46:20,016 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 92, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:46:20', 'updateTime': '2021-01-27 10:46:20', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:46:20,016 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:46:20,016 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:46:20,017 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:46:20', 'id': 92}, {'id': 92, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:46:20', 'updateTime': '2021-01-27 10:46:20', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:46:20,017 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:46:20', 'id': 92}, {'id': 92, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:46:20', 'updateTime': '2021-01-27 10:46:20', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:46:20,017 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,017 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,017 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:46:20,017 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:46:20,018 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,018 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,018 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"id":"92","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:46:20","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:46:20,018 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},json={"id":"92","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:46:20","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:46:20,055 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:46:20,055 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:46:20,055 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:46:20,055 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:46:20,056 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,056 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,056 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:46:20,056 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:46:20,114 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:46:20,114 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:46:20,114 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:46:20,114 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:46:20,115 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,115 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:46:20', 'id': 92}
+2021-01-27 10:46:20,115 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/92",method="delete",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={},)
+
+2021-01-27 10:46:20,115 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/92",method="delete",headers={'Cookie': 'super-token=917001f41b494b05b4cd6f6a5e735d68'},params={},)
+
+2021-01-27 10:46:20,173 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:46:20,173 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:46:20,173 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:46:20,173 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:46:20,690 - common.py[line:363] - INFO: []
+
+2021-01-27 10:46:20,690 - common.py[line:363] - INFO: []
+
+2021-01-27 10:48:08,786 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:48:08,786 - APITestCase.py[line:43] - INFO: 需要执行的用例表名称为：['劳务公司']
+
+2021-01-27 10:48:08,788 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:48:08,788 - APITestCase.py[line:184] - INFO: 开始执行 ‘劳务公司’ 测试用例
+
+2021-01-27 10:48:08,788 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:48:08,788 - APITestCase.py[line:214] - INFO: 进入获取token程序!
+
+2021-01-27 10:48:09,355 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:48:09,355 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/web/login",method="post",headers={'Cookie': ''},json={"account": "13000000098","codeToken": "","password": "7ae61a36fdf170216e7a207cd278de76"},)
+
+2021-01-27 10:48:09,952 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': 'ea0bbe9b22d6450487b492dd983ff94d', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:48:09,952 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'token': 'ea0bbe9b22d6450487b492dd983ff94d', 'lastLoginSuccessTime': None, 'loginFailCount': None, 'lastLoginRegion': None, 'userId': '9675731b87db4f9baed3bc76c971827a', 'new': False}}
+
+2021-01-27 10:48:09,954 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:48:09,954 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/sys/sys/url",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:48:09,986 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:48:09,986 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'sysName': '测试安吉白茶', 'createUser': None, 'sysCode': '', 'createUserName': None, 'createTime': None, 'sysUrl': 'http://cshanjbch.jgwcjm.com', 'sysLabels': None, 'sysLabel': None, 'sysType': '2', 'sysTypeName': None, 'title': '测试安吉白茶', 'iconUrlId': '', 'loginBD': '', 'bgPic': '', 'sysLogo': '', 'minSysLogo': '', 'productLine': None, 'footer': {'title': '技术支持：浙江甲骨文超级码科技股份有限公司'}}}
+
+2021-01-27 10:48:09,988 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:48:09,988 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/org/sys/filter-user",method="get",headers={'isAdmin': 'False', 'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"sysId":"5fa756fc1a7141cab9f342aee552f93c"},)
+
+2021-01-27 10:48:10,026 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:48:10,026 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd'}]}}
+
+2021-01-27 10:48:10,027 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:48:10,027 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/org/1a1b21c82262493b83777777222f0a9f",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd"},)
+
+2021-01-27 10:48:10,074 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:48:10,074 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:48:10,075 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:48:10,075 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://login.jgwcjm.com/apiInterface/interface/hydra-user/api/v1/user/set/sys/2dc15c65b93f4f33b3098eb1dddbb084",method="post",headers={'isAdmin': 'False', 'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"sysId": "5fa756fc1a7141cab9f342aee552f93c","sysUrl": "http://cshanjbch.jgwcjm.com"},)
+
+2021-01-27 10:48:10,131 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:48:10,131 - APITestCase.py[line:231] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {}}
+
+2021-01-27 10:48:10,133 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=ea0bbe9b22d6450487b492dd983ff94d
+
+2021-01-27 10:48:10,133 - APITestCase.py[line:243] - INFO: 获取token成功！token=super-token=ea0bbe9b22d6450487b492dd983ff94d
+
+2021-01-27 10:48:10,134 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:48:10,134 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:48:10,136 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:48:10,136 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"name":"202116","sort":"1"},)
+
+2021-01-27 10:48:10,320 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:48:10,320 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:48:10,322 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:48:10,322 - APITestCase.py[line:376] - INFO: 新增劳务公司名称-用例执行结果：success
+
+2021-01-27 10:48:10,324 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:48:10,324 - APITestCase.py[line:247] - INFO: 变量列表为：{}
+2021-01-27 10:48:10,324 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:48:10,324 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"current":"1","pageSize":"10","flag":"1"},)
+
+2021-01-27 10:48:10,392 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 93, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:48:11', 'updateTime': '2021-01-27 10:48:11', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:48:10,392 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 2, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:24', 'updateTime': '2020-04-21 20:31:24', 'name': '向阳劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 5, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-06-10 02:34:34', 'updateTime': '2020-06-10 02:34:34', 'name': '可可劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 28, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-07-28 21:25:03', 'updateTime': '2020-07-28 21:25:03', 'name': '吃力劳务公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 29, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-12-30 00:23:37', 'updateTime': '2020-12-30 00:23:37', 'name': '1230公司', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 93, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:48:11', 'updateTime': '2021-01-27 10:48:11', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}, {'id': 3, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2020-04-21 20:31:47', 'updateTime': '2020-04-21 20:31:47', 'name': '荣欣劳务公司', 'sort': 2, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 7}}}
+
+2021-01-27 10:48:10,394 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:48:10,394 - APITestCase.py[line:309] - INFO: variableData:::(['name', 'createTime', 'id'], {'name': '202116'})
+2021-01-27 10:48:10,395 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:48:11', 'id': 93}, {'id': 93, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:48:11', 'updateTime': '2021-01-27 10:48:11', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:48:10,395 - APITestCase.py[line:315] - INFO: ---------({'name': '202116', 'createTime': '2021-01-27 10:48:11', 'id': 93}, {'id': 93, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-27 10:48:11', 'updateTime': '2021-01-27 10:48:11', 'name': '202116', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0})
+2021-01-27 10:48:10,396 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,396 - APITestCase.py[line:322] - INFO: -------:::{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,397 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:48:10,397 - APITestCase.py[line:376] - INFO: 获取劳务公司单位列表-用例执行结果：success
+
+2021-01-27 10:48:10,399 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,399 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,400 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"id":"93","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:48:11","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:48:10,400 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/update",method="post",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},json={"id":"93","organizationId":"ef1bba7e4eb24206ae4827d1cdc83edd","sysId":"5fa756fc1a7141cab9f342aee552f93c","createTime":"2021-01-27 10:48:11","updateTime":"2021-01-06 16:08:38","name":"20211601","sort":1,"operator":"43e8a0e904cc47d89c9acc19c17ee5f7","operatorName":"酒吧","deleted":0},)
+
+2021-01-27 10:48:10,448 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:48:10,448 - APITestCase.py[line:276] - INFO: result: {'state': 500, 'internalErrorCode': '0', 'msg': '已存在当前劳务公司名称', 'results': None}
+
+2021-01-27 10:48:10,449 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:48:10,449 - APITestCase.py[line:376] - INFO: 编辑劳务公司名称-用例执行结果：fail
+
+2021-01-27 10:48:10,449 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,449 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,450 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:48:10,450 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/list",method="get",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={"current":"1","pageSize":"10","search":"20211601","flag":"1"},)
+
+2021-01-27 10:48:10,505 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:48:10,505 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': {'list': [{'id': 83, 'organizationId': 'ef1bba7e4eb24206ae4827d1cdc83edd', 'sysId': '5fa756fc1a7141cab9f342aee552f93c', 'createTime': '2021-01-19 16:59:12', 'updateTime': '2021-01-06 16:08:38', 'name': '20211601', 'sort': 1, 'operator': '43e8a0e904cc47d89c9acc19c17ee5f7', 'operatorName': '酒吧', 'deleted': 0}], 'pagination': {'startNumber': 0, 'current': 1, 'totalPage': 1, 'pageSize': 10, 'total': 1}}}
+
+2021-01-27 10:48:10,506 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:48:10,506 - APITestCase.py[line:376] - INFO: 搜索劳务公司名称-用例执行结果：success
+
+2021-01-27 10:48:10,507 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,507 - APITestCase.py[line:247] - INFO: 变量列表为：{'createTime': '2021-01-27 10:48:11', 'id': 93}
+2021-01-27 10:48:10,507 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/93",method="delete",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={},)
+
+2021-01-27 10:48:10,507 - APITestCase.py[line:152] - INFO: Request: getResponse(url="http://cshanjbch.jgwcjm.com/apiInterface/interface/hydra-smart-planting/api/v1/labourCompany/93",method="delete",headers={'Cookie': 'super-token=ea0bbe9b22d6450487b492dd983ff94d'},params={},)
+
+2021-01-27 10:48:10,561 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:48:10,561 - APITestCase.py[line:276] - INFO: result: {'state': 200, 'internalErrorCode': '0', 'msg': 'success', 'results': None}
+
+2021-01-27 10:48:10,562 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:48:10,562 - APITestCase.py[line:376] - INFO: 删除劳务公司-用例执行结果：success
+
+2021-01-27 10:48:11,068 - common.py[line:363] - INFO: []
+
+2021-01-27 10:48:11,068 - common.py[line:363] - INFO: []
+
